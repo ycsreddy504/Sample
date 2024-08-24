@@ -9,7 +9,7 @@ public class ArrayExample {
 		// Memory allocation:
 		// datatype[] variableName;
 		// two array single and 2D array
-
+		// insertion order is maintained
 		int[] numbers = { 10, 20, 30, 40, 50 };
 		
 		int[][] values = { { 1, 2 }, { 2, 3 } };
