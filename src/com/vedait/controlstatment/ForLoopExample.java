@@ -32,6 +32,6 @@ public class ForLoopExample {
 			System.out.println();
 		}
 		System.out.println("Printing testing doing eating 8 hours");
-
+		system.out.println("Changes applied");
 	}
 }
