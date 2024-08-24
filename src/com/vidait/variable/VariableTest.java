@@ -27,5 +27,9 @@ public class VariableTest {
 		System.out.println("Id :" + id);
 		System.out.println("Name :" + name);
 		System.out.println("institute :" + institute);
+		
+		System.out.println("Adding new line of code for testing..");
 	}
+	
+	
 }
