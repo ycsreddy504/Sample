@@ -6,7 +6,8 @@ public class Employee {
 	String eName;
 	String eDesignation; // we can use single data type declare multiple variable name for that string
 	double salary;
-
+	
+	
 	public Employee() {
 	}
 
