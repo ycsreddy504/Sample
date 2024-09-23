@@ -1,5 +1,7 @@
 package com.vedait.practice.stringex;
 
+import java.util.StringTokenizer;
+
 public class Notes {
 
 	// String is class
@@ -30,6 +32,9 @@ public class Notes {
 		Notes note = new Notes();
 		note.m1();
 	}
+	
+	StringTokenizer str5=new StringTokenizer("My name is Chandra");
+	
 	
 	// how to create a string object
 	// String literal
