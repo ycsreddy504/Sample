@@ -25,6 +25,18 @@ public class WrapperClassEx {
 		int i = x.intValue(); // convert Interto int ex
 		int j = x; // now compiler will write x.intValue() internally
 		
+		double currentVolume = 0.75;
+		double increasedVolume = Math.min(currentVolume + 0.1, 1.0);
+		System.out.println("Adjusted Volume: " + increasedVolume);
+
+		// compound intrest calculaiton
+		
+		double principal = 100000.00;
+		double rate = 12.00;
+		int years = 1;
+		double amount = principal * Math.pow(1 + rate / 100, years);
+		System.out.println("Compound Interest: " +  amount);
+
 	       
 	}
 
